@@ -12,16 +12,14 @@
 -->
 
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/piandhust/piandhust.github.io/refs/heads/master/image/hap_circle.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/piandhust/piandhust.github.io/refs/heads/master/image/piandhust.png" width="100"/>
   <div id="badges">
-<!--     <a href="https://viblo.asia/o/piandhust">
+     <a href="https://viblo.asia/o/tailieubkhn">
       <img src="https://img.shields.io/badge/Viblo-blue?style=for-the-badge&logo=viblo&logoColor=white" alt="LinkedIn Badge"/>
-    </a> -->
-    <a href="https://www.youtube.com/channel/UCJGcYPqJl_gMuYGqxNPgVFg/videos">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="https://www.facebook.com/piandhust">
-      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Twitter Badge"/>
-    </a>
+    </a> 
+    <a href="https://www.tailieubkhn.com/">
+      <img src="https://img.shields.io/badge/Tailieubkhn-orange?style=for-the-badge&logo=Tesla&logoColor=white" alt="Website Badge"/>
+    </a> 
+    
   </div>
 </div>
